@@ -1,0 +1,17 @@
+[33mcommit f8f6ec4e4e178dc18a7bba484d96de7ea0d2f576[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <uzair.rocketmail@yahoo.com>
+Date:   Fri Mar 13 13:49:11 2020 -0500
+
+    functionality added where state data gets updated with user inputted search term
+
+[33mcommit 36ac2f5d705eeb3f62f94f884d9599d5a538086c[m
+Author: unknown <uzair.rocketmail@yahoo.com>
+Date:   Fri Mar 13 13:46:20 2020 -0500
+
+    state initialized..
+
+[33mcommit e9d77072f448c51af2a426f40adfad54c657dd5a[m
+Author: unknown <uzair.rocketmail@yahoo.com>
+Date:   Fri Mar 13 13:44:52 2020 -0500
+
+    Header initialized..

@@ -1,0 +1,62 @@
+*{
+box-sizing: border-box;
+}
+body{
+
+background-color: beige;
+
+}
+.container{
+
+margin-top: 1rem;
+width: 95%;
+display: flex;
+
+
+}
+.container img{
+width: 10rem;
+
+
+}
+.searchbar{
+
+width:40%;
+height: 2rem;
+margin-left: 15rem;
+padding:2rem;
+border: 0;
+outline: none;
+box-shadow: aqua;
+
+
+}
+
+.searchbar:focus{
+cursor: pointer;
+
+}
+.searchresult{
+    display:flex;
+    flex-wrap: wrap;
+    
+    
+}
+.titledata{
+    display: flex;
+}
+.titledata img{
+    width: 300px;
+    height: 300px;
+}
+.searchresult .titledata {
+    width: 33.33%;
+    display: flex;
+    flex-direction: column;
+}
+.titledata h3{
+font-size: large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+display: flex;
+
+}
